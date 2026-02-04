@@ -1,12 +1,11 @@
 # Hi there, I'm Mitayan! 👋
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=mitayan0&theme=radical&no-frame=true" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mitayan0&theme=radical" alt="Trophies" />
 
-## 📊 GitHub Stats & Languages
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitayan0&theme=radical" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=mitayan0&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitayan0&layout=compact&theme=radical" height="150" />
 </p>
 
 ## 📈 Activity Graph
