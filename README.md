@@ -3,13 +3,13 @@
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitayan0&show_icons=true&theme=radical" alt="mitayan0's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitayan0&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mitayan0&show_icons=true&theme=radical&cache_seconds=1800" alt="mitayan0's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitayan0&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="150" />
 </p>
 
 ## 🚀 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitayan0&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mitayan0&theme=radical&cache_seconds=1800" alt="GitHub Streak" />
 
 ---
 
